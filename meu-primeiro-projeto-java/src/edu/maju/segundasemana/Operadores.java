@@ -18,6 +18,16 @@ public class Operadores {
 
     System.out.println("Número: " + numero);
     System.out.println(- numero);
+
+    int numero1 = 10;
+    int numero2 = 20;
+
+    boolean simNao = numero1 == numero2;
+    System.out.println("Os numeros são iguais? : " + simNao);
+
+    simNao = numero1 != numero2;
+
+    System.out.println("Os numeros são diferentes? : " + simNao);
   }
   
 }

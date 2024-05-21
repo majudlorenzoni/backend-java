@@ -24,10 +24,5 @@ Durante este módulo, adquiri conhecimento sobre os conceitos fundamentais da pr
 - **JavaDoc**: Utilização de JavaDoc para documentar o código de maneira eficaz.
 - **Terminal**: Execução e compilação de programas Java via terminal.
 
-<!-- ## Projetos Desenvolvidos
-
-Ao longo do curso, desenvolvi diversos projetos práticos para aplicar os conhecimentos adquiridos. Cada projeto focou em diferentes aspectos da linguagem Java e práticas de desenvolvimento de software.
-
---- -->
-
-Fique à vontade para explorar o repositório e acompanhar meu progresso no curso. Se tiver alguma dúvida ou sugestão, entre em contato!
+## Simulando Uma Conta Bancária Através Do Terminal/Console
+Este projeto é uma aplicação Java simples que simula a criação e gerenciamento de uma conta bancária através do terminal/console. O usuário pode fornecer informações sobre a agência, número da conta, nome do titular e saldo inicial. O usuário recebe uma mensagem de verificação dos dados.
