@@ -26,3 +26,7 @@ Durante este módulo, adquiri conhecimento sobre os conceitos fundamentais da pr
 
 ## Simulando Uma Conta Bancária Através Do Terminal/Console
 Este projeto é uma aplicação Java simples que simula a criação e gerenciamento de uma conta bancária através do terminal/console. O usuário pode fornecer informações sobre a agência, número da conta, nome do titular e saldo inicial. O usuário recebe uma mensagem de verificação dos dados.
+
+## Contador de Números
+Este programa em Java recebe dois parâmetros via terminal que representam dois números inteiros. 
+Com esses números, o programa calcula a quantidade de iterações necessárias e imprime os números incrementados no console.
