@@ -30,3 +30,7 @@ Este projeto é uma aplicação Java simples que simula a criação e gerenciame
 ## Contador de Números
 Este programa em Java recebe dois parâmetros via terminal que representam dois números inteiros. 
 Com esses números, o programa calcula a quantidade de iterações necessárias e imprime os números incrementados no console.
+
+## Projeto Iphone em Java
+
+Este projeto demonstra a implementação de um modelo básico de um iPhone em Java, que implementa as funcionalidades de um reprodutor musical, um aparelho telefônico e um navegador de internet.
