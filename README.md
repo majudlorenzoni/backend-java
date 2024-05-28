@@ -34,3 +34,12 @@ Com esses números, o programa calcula a quantidade de iterações necessárias 
 ## Projeto Iphone em Java
 
 Este projeto demonstra a implementação de um modelo básico de um iPhone em Java, que implementa as funcionalidades de um reprodutor musical, um aparelho telefônico e um navegador de internet.
+
+## Collections 
+
+Esta pasta contém exemplos e explicações sobre as principais coleções em Java, incluindo List, Set, Map e Queue. As coleções são fundamentais para o desenvolvimento em Java, permitindo o armazenamento e manipulação eficiente de grupos de objetos.
+
+## Banco Digital
+
+Este é um projeto de sistema bancário simples implementado em Java. O projeto inclui classes para contas bancárias que permitem operações como saque, depósito e transferência de fundos.
+
