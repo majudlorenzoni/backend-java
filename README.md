@@ -45,3 +45,6 @@ Este é um projeto de sistema bancário simples implementado em Java. O projeto 
 
 ## Projeto de Gestão de Bootcamps
 Este projeto implementa um sistema de gestão de bootcamps, onde é possível cadastrar bootcamps, inscrever desenvolvedores (devs) em bootcamps, acompanhar o progresso dos devs nos bootcamps e calcular a XP total dos devs com base nos bootcamps concluídos.
+
+## Maven
+Este pasta contém materiais de estudo e exemplos relacionados ao Apache Maven. O Maven é uma ferramenta poderosa de automação de construção e gerenciamento de dependências amplamente utilizada no desenvolvimento de software Java.
