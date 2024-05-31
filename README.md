@@ -48,3 +48,6 @@ Este projeto implementa um sistema de gestão de bootcamps, onde é possível ca
 
 ## Maven
 Este pasta contém materiais de estudo e exemplos relacionados ao Apache Maven. O Maven é uma ferramenta poderosa de automação de construção e gerenciamento de dependências amplamente utilizada no desenvolvimento de software Java.
+
+## Mockito-exemplos
+Exemplos de utilização do Mockito em projetos Java
