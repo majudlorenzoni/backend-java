@@ -6,7 +6,14 @@ Bem-vindo ao repositório do meu progresso e projetos desenvolvidos durante o cu
 
 - [Ambiente de Desenvolvimento Java](#ambiente-de-desenvolvimento-java)
 - [Aprendendo a Sintaxe Java](#aprendendo-a-sintaxe-java)
-
+- [Simulando Uma Conta Bancária Através Do Terminal/Console](#simulando-uma-conta-bancária-através-do-terminalconsole)
+- [Contador de Números](#contador-de-números)
+- [Projeto Iphone em Java](#projeto-iphone-em-java)
+- [Collections](#collections)
+- [Banco Digital em Java](#banco-digital)
+- [Projeto de Gestão de Bootcamps](#projeto-de-gestão-de-bootcamps)
+- [Maven](#maven)
+- [Mockito](#mockito-exemplos)
 ## Ambiente de Desenvolvimento Java
 
 Neste módulo, aprendi a configurar o ambiente de desenvolvimento necessário para programar em Java. Isso incluiu a instalação do JDK (Java Development Kit) e a configuração de uma IDE (Integrated Development Environment) para facilitar o processo de codificação.
@@ -32,15 +39,12 @@ Este programa em Java recebe dois parâmetros via terminal que representam dois 
 Com esses números, o programa calcula a quantidade de iterações necessárias e imprime os números incrementados no console.
 
 ## Projeto Iphone em Java
-
 Este projeto demonstra a implementação de um modelo básico de um iPhone em Java, que implementa as funcionalidades de um reprodutor musical, um aparelho telefônico e um navegador de internet.
 
 ## Collections 
-
 Esta pasta contém exemplos e explicações sobre as principais coleções em Java, incluindo List, Set, Map e Queue. As coleções são fundamentais para o desenvolvimento em Java, permitindo o armazenamento e manipulação eficiente de grupos de objetos.
 
 ## Banco Digital
-
 Este é um projeto de sistema bancário simples implementado em Java. O projeto inclui classes para contas bancárias que permitem operações como saque, depósito e transferência de fundos.
 
 ## Projeto de Gestão de Bootcamps
@@ -49,5 +53,10 @@ Este projeto implementa um sistema de gestão de bootcamps, onde é possível ca
 ## Maven
 Este pasta contém materiais de estudo e exemplos relacionados ao Apache Maven. O Maven é uma ferramenta poderosa de automação de construção e gerenciamento de dependências amplamente utilizada no desenvolvimento de software Java.
 
-## Mockito-exemplos
+## Mockito
 Exemplos de utilização do Mockito em projetos Java
+
+## Banco de Dados do Sistema de Viagens
+Esta pasta contém o arquivo SQL de um banco de dados desenvolvido para um sistema de viagens, contendo informações sobre usuários, destinos e reservas. Além disos, possui um resumo das aulas teóricas.
+
+![Imagem do Resumo feito e que está disponível em PDF na pasta banco-de-dados](banco-de-dados/ResumoBancoDados.jpg)
